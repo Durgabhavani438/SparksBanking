@@ -24,7 +24,7 @@
         color:white;
     }
     th{
-        font-size: 20px;
+        font-size: 30px;
         color:white;
     }
     h2{
