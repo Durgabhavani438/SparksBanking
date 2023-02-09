@@ -16,8 +16,8 @@
 			z-index: -1;
 			background-image:
 			linear-gradient(
-				rgba(0,0,0,0.7),
-				rgba(0,0,0,0.7)),
+				rgba(0,0,0,0.8),
+				rgba(0,0,0,0.8)),
 			url(pexels-photo-2627063.jpeg);
 			z-index: -1;
 
